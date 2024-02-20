@@ -1,4 +1,4 @@
-# Time series Analysis 
+# Time Series Analysis 
 
 ## Overview
 
@@ -17,7 +17,7 @@ The dataset has the following columns:
 ## Tec  Methods
 Using  Python and any relevant libraries for data analysis and machine learning 
 
-- Performaing EDA analysis 
+- Performing EDA analysis 
 - Data preprocessing
 - Model selection and training
 - Evaluation of the trained model
@@ -37,5 +37,3 @@ python src/rnn_gru_model.py
 - NumPy 
 - sklearn
 - TensorFlow
-
-## Usage
