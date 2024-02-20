@@ -8,11 +8,11 @@ This repository contains code and resources for performing stock market analysis
 -Dataset:
 You are provided with a CSV file named `stock_data.csv`, containing historical stock data.
 The dataset has the following columns:
-• Date: The date of the data point
-• Open: The opening price of the stock
-• High: The highest price of the stock during the day
-• Low: The lowest price of the stock during the day
-• Close: The closing price of the stock
+-  Date: The date of the data point
+- Open: The opening price of the stock
+- High: The highest price of the stock during the day
+- Low: The lowest price of the stock during the day
+- Close: The closing price of the stock
 
 ## Tec  Methods
 Using  Python and any relevant libraries for data analysis and machine learning 
