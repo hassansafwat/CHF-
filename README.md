@@ -1,5 +1,7 @@
-<h1 align="center">stock_market_analysis Time series analysis</h1>
-<h3 align="center">stock_market_analysis</h3>
+<h1 align="center">Time series analysis stock_market_analysis</h1>
+<h3 align="center">Data preprocessing Handling Missing Values: Identify and handle missing values (NaN or NULL) in the dataset. Options include removing rows/columns, imputing values, or using advanced imputation methods.</h3>
+
+- 📫 How to reach me **hassansafwat625@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
